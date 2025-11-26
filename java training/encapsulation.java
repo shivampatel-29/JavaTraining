@@ -15,7 +15,8 @@ class Atm{
 };
 class encapsulation{
     public static void main(String[] args){
-        
+        Atm a1=new Atm();
+        a1.getTotalB();
 
     }
 }
