@@ -10,5 +10,6 @@ public class Mainn{
         for(int x :map.keySet()){
             System.out.println(map.get(x));
         }
+        
     }
 }
